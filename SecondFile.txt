@@ -1,0 +1,2 @@
+This is inside second file:
+added initially
